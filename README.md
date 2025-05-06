@@ -10,12 +10,12 @@ An interactive and beginner-friendly repository showcasing essential statistical
 | 📌 Topic                       | 📁 Notebook Link                                                  |
 |-------------------------------|-------------------------------------------------------------------|
 | 📊 Descriptive Analysis        | [Open Notebook](Tools/descriptive_statistics.ipynb)          |
-| 🎲 Probability Distributions   | [Open Notebook](Probability_Distributions.ipynb)        |
-| 📈 Inferential Techniques      | [Open Notebook](Inferential_Statistics.ipynb)           |
-| 🏠 Regression Models           | [Open Notebook](Regression_Analysis.ipynb)              |
-| 🧪 Hypothesis Testing          | [Open Notebook](Hypothesis_Testing.ipynb)               |
-| 📉 Time Series Forecasting     | [Open Notebook](Time_Series_Analysis.ipynb)             |
-| 🧬 Clustering & Classification | [Open Notebook](Clustering_Classification.ipynb)        |
+| 🎲 Probability Distributions   | [Open Notebook](Tools/Probability_Distributions.ipynb)        |
+| 📈 Inferential Techniques      | [Open Notebook](Tools/Inferential_Statistics.ipynb)           |
+| 🏠 Regression Models           | [Open Notebook](Tools/Regression_Analysis.ipynb)              |
+| 🧪 Hypothesis Testing          | [Open Notebook](Tools/Hypothesis_Testing.ipynb)               |
+| 📉 Time Series Forecasting     | [Open Notebook](Tools/Time_Series_Analysis.ipynb)             |
+| 🧬 Clustering & Classification | [Open Notebook](Tools/Clustering_&_Classification_.ipynb)        |
 
 ---
 
