@@ -9,7 +9,7 @@ An interactive and beginner-friendly repository showcasing essential statistical
 
 | 📌 Topic                       | 📁 Notebook Link                                                  |
 |-------------------------------|-------------------------------------------------------------------|
-| 📊 Descriptive Analysis        | [Open Notebook](Descriptive_Statistics.ipynb)          |
+| 📊 Descriptive Analysis        | [Open Notebook](Tools/descriptive_statistics.ipynb)          |
 | 🎲 Probability Distributions   | [Open Notebook](Probability_Distributions.ipynb)        |
 | 📈 Inferential Techniques      | [Open Notebook](Inferential_Statistics.ipynb)           |
 | 🏠 Regression Models           | [Open Notebook](Regression_Analysis.ipynb)              |
